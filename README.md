@@ -3,7 +3,8 @@
 ![](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/1.png)
 
 <p>Crea un enlace a
-<a href="https://wa.me/593998411013?text=Quiero%20Informacion%20Codigo:....">Lo quiero!</a>.
+<a href="https://wa.me/593998411013?text=Quiero%20Informacion%20Codigo:....
+Herramienta:https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/1.png">Lo quiero!</a>.
 </p>
 
 
