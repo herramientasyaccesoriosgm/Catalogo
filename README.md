@@ -2,12 +2,10 @@
 
 ![](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/1.png)
 
-<p>Crea un enlace a
-<a href="https://wa.me/593998411013?text=Quiero%20Informacion%20Codigo:....
-Herramienta:https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/1.png">Lo quiero!</a>.
+<p><a href="https://wa.me/593998411013?text=Quiero%20Informacion:%20Codigo:....">Lo quiero!</a>.
 </p>
 
-
+![Lo quiero!](https://wa.me/593998411013?text=Quiero%20Informacion:%20Codigo:....)
 
 ![](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/2.png)
 ![](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/3.png)
