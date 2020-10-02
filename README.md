@@ -6,6 +6,8 @@
 <a href="https://www.mozilla.org/es-ES/">la página de inicio de Mozilla</a>.
 </p>
 
+<a href="whatsapp://send?text=The text to share!" data-action="share/whatsapp/share">Share via Whatsapp</a>
+
 ![](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/2.png)
 ![](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/3.png)
 ![](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/4.png)
