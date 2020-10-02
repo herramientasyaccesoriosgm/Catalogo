@@ -2,6 +2,8 @@
 
 ![](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/1.png)
 
+# Taladro Inalambrico
+
 ![Taladro Inalambrico](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/2.png)
 
 ![Mas informacion!](https://wa.me/593986008259?text=Quiero%20Informacion,%20codigo: AG002)
