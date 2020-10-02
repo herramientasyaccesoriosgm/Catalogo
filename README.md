@@ -8,8 +8,6 @@
 
 <a href="https://wa.me/593986008259?text=Quiero%20Informacion,%20codigo: AG002">Mas informacion!</a>
 
-![Mas informacion!](https://wa.me/593986008259?text=Quiero%20Informacion,%20codigo: AG002)
-
 ![AG002_Amoladora 4.5](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/3.png)
 
 [Más Información!](https://wa.me/593986008259?text=Quiero%20Informacion,%20codigo: AG002)
