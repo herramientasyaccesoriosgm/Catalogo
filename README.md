@@ -3,7 +3,8 @@
 ![](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/1.png)
 
 ![Taladro Inalambrico](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/2.png)
-[Más Información!](https://wa.me/593986008259?text=Quiero%20Informacion,%20codigo: AG002)
+
+[Lo quiero!](https://wa.me/593986008259?text=Quiero%20Informacion,%20codigo: AG002)
 
 ![AG002_Amoladora 4.5](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/3.png)
 
