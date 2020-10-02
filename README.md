@@ -2,8 +2,8 @@
 
 ![](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/1.png)
 
-<p><a href="https://wa.me/593998411013?text=Quiero%20Informacion:%20Codigo:....">Lo quiero!</a>.
-</p>
+//<p><a href="https://wa.me/593998411013?text=Quiero%20Informacion:%20Codigo:....">Lo quiero!</a>.
+//</p>
 
 [Lo quiero!](https://wa.me/593998411013?text=Quiero%20Informacion:%20Codigo:....)
 
