@@ -1,6 +1,11 @@
 # Catalogo
 
 ![](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/1.png)
+
+<p>Crea un enlace a
+<a href="https://www.mozilla.org/es-ES/">la página de inicio de Mozilla</a>.
+</p>
+
 ![](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/2.png)
 ![](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/3.png)
 ![](https://github.com/herramientasyaccesoriosgm/Catalogo/blob/main/IMG/4.png)
